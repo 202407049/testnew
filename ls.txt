@@ -1,4 +1,4 @@
-total 56
+otal 56
 drwxr-xr-x 1 YUHAN 197121     0 May 15 14:35 ./
 drwxr-xr-x 1 YUHAN 197121     0 May 15 13:23 ../
 drwxr-xr-x 1 YUHAN 197121     0 May 15 13:47 .git/
