@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 kk
 fsadf
 vxfasdf
@@ -335,3 +336,8 @@ adfskk
 fsadf
 vxfasdf
 adfs
+=======
+qq
+ww
+ee
+>>>>>>> work
